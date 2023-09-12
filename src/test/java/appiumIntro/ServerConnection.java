@@ -41,6 +41,9 @@ public class ServerConnection {
         AndroidElement firstButton2=listOfButtons.get(0);
         Assert.assertEquals("ONE SHOT ALARM",firstButton2.getText());
 
+        //i did this
+        System.out.println("buki");
+
 
     }
 }
